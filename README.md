@@ -62,6 +62,15 @@ Dengan mengatasi permasalahan yang dihadapi, Transjakarta dapat terus berkontrib
 
 1. Merekomendasikan perbaikan fasilitas yang dapat mengatasi tantangan aksesibilitas dan meningkatkan kualitas layanan secara keseluruhan seperti fasilitas untuk lansia dan armada khusus perempuan.
 
+## Pernyataan Masalah ##
+1. Cara memaksimalkan fasilitas untuk kelompok lansia dan pengguna wanita. 
+Bagaimana menentukan koridor yang paling ramai dan halte yang sibuk, penekanan khusus pada jam-jam peak hour? 
+
+1. Pada bulan April 2023 hari besar, yaitu Hari raya Idul Fitri yang jatuh pada tanggal 21 dan 22, serta cuti bersama dari tanggal 19 hingga 26 April. Bagaimana tren kepadatan harian customer transjakarta sepanjang April 2023.
+Apakah hari raya tersebut berpengaruh terhadap tren kepadatan harian customer Transjakarta?
+
+1. Apa saja koridor teramai dalam memahami tren penggunaan pada pagi dan sore hari? untuk membantu mengidentifikasi area di mana perbaikan atau penyesuaian mungkin diperlukan dalam meningkatkan efisiensi dan kepuasan pengguna.
+
 ## Data Info ##
 
 <class 'pandas.core.frame.DataFrame'>
